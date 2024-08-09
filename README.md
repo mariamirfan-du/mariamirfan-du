@@ -5,7 +5,7 @@
 - Interested in backend development and integrating AI into products. 
 - Currently learning Mobile App Development through React Native
 
-
+#
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariamirfan-du&theme=tokyonight" />
 </a>
@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariamirfan-du&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
+#
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
