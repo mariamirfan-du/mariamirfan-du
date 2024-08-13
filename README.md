@@ -1,5 +1,5 @@
 # Welcome!
-✨Hello I am Fasia Shahzad
+✨Hello I am Mariam Irfan 
 - A computer enthusiast and developer sharing my journey into tech.
 - Currently pursuing my Bachelors of Computer Sciences from the Institute of Management Sciences.
 - Interested in backend development and integrating AI into products. 
